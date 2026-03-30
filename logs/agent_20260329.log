@@ -1,0 +1,204 @@
+2026-03-29 17:18:54,742 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\noise.txt内容已存在
+2026-03-29 17:18:55,270 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\天气与音乐.txt内容加载成功
+2026-03-29 17:18:55,272 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容已存在
+2026-03-29 17:18:55,272 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容已存在
+2026-03-29 17:19:50,445 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\noise.txt内容已存在
+2026-03-29 17:19:50,445 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\天气与音乐.txt内容已存在
+2026-03-29 17:19:50,446 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容已存在
+2026-03-29 17:19:50,446 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容已存在
+2026-03-29 17:22:36,824 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 17:24:13,183 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 17:24:13,183 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 我在南通，今天适合听什么音乐
+2026-03-29 17:24:20,372 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_weather
+2026-03-29 17:24:20,372 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'city': '南通'}
+2026-03-29 17:24:20,373 - agent - INFO - middleware.py:21 - [tool monitor]工具get_weather调用成功
+2026-03-29 17:24:20,373 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 17:24:20,373 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 城市南通为晴天，气温26摄氏度
+2026-03-29 17:27:51,656 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 17:27:51,656 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 我在南通，今天适合听什么音乐
+2026-03-29 17:27:54,806 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_weather
+2026-03-29 17:27:54,807 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'city': '南通'}
+2026-03-29 17:27:54,807 - agent - INFO - middleware.py:21 - [tool monitor]工具get_weather调用成功
+2026-03-29 17:27:54,808 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 17:27:54,808 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 城市南通为晴天，气温26摄氏度
+2026-03-29 17:27:59,969 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\noise.txt内容已存在
+2026-03-29 17:28:00,648 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\天气与音乐.txt内容加载成功
+2026-03-29 17:28:00,649 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容已存在
+2026-03-29 17:28:00,649 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容已存在
+2026-03-29 17:28:18,258 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\noise.txt内容已存在
+2026-03-29 17:28:18,258 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\天气与音乐.txt内容已存在
+2026-03-29 17:28:18,258 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容已存在
+2026-03-29 17:28:18,259 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容已存在
+2026-03-29 17:28:45,733 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\noise.txt内容加载成功
+2026-03-29 17:28:46,232 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\天气与音乐.txt内容加载成功
+2026-03-29 17:28:46,882 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容加载成功
+2026-03-29 17:28:48,600 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容加载成功
+2026-03-29 17:29:26,306 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\noise.txt内容加载成功
+2026-03-29 17:29:26,898 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\天气与音乐.txt内容加载成功
+2026-03-29 17:29:27,567 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容加载成功
+2026-03-29 17:29:29,071 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容加载成功
+2026-03-29 17:30:54,614 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 17:30:54,614 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 我在南通，今天适合听什么音乐
+2026-03-29 17:30:58,963 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_weather
+2026-03-29 17:30:58,963 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'city': '南通'}
+2026-03-29 17:30:58,964 - agent - INFO - middleware.py:21 - [tool monitor]工具get_weather调用成功
+2026-03-29 17:30:58,965 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 17:30:58,965 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 城市南通为晴天，气温26摄氏度
+2026-03-29 17:31:02,764 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 17:31:02,764 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '晴天适合听什么类型的音乐'}
+2026-03-29 17:31:04,496 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 17:31:04,497 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 5 条消息
+2026-03-29 17:31:04,497 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 参考资料中未提及晴天适合听什么类型的音乐。
+2026-03-29 17:33:09,859 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\noise.txt内容已存在
+2026-03-29 17:33:09,860 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\天气与音乐.txt内容已存在
+2026-03-29 17:33:09,860 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\播放音频.txt内容已存在
+2026-03-29 17:33:09,861 - agent - INFO - vector_store.py:69 - [加载知识库]E:\agent\data\airpods使用手册\配对和充电.txt内容已存在
+2026-03-29 17:36:22,146 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 17:36:22,147 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 我在南通，今天适合听什么类型的音乐
+2026-03-29 17:36:24,899 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_user_location
+2026-03-29 17:36:24,899 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 17:36:24,900 - agent - INFO - middleware.py:21 - [tool monitor]工具get_user_location调用成功
+2026-03-29 17:36:24,900 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 17:36:24,900 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 上海
+2026-03-29 17:36:28,950 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_weather
+2026-03-29 17:36:28,950 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'city': '上海'}
+2026-03-29 17:36:28,950 - agent - INFO - middleware.py:21 - [tool monitor]工具get_weather调用成功
+2026-03-29 17:36:28,951 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 5 条消息
+2026-03-29 17:36:28,951 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 城市上海为晴天，气温26摄氏度
+2026-03-29 17:36:32,836 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 17:36:32,836 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '晴天适合听什么类型的音乐'}
+2026-03-29 17:36:34,637 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 17:36:34,637 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 7 条消息
+2026-03-29 17:36:34,638 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 参考资料中未提及晴天适合听什么类型的音乐。
+2026-03-29 17:40:13,175 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 17:40:13,176 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 简要地说一下你的参考资料有哪些
+2026-03-29 17:40:15,045 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 17:40:15,045 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '参考资料范围'}
+2026-03-29 17:40:17,484 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 17:40:17,484 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 17:40:17,484 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 参考资料范围指用户提问所依据的向量检索到的特定资料内容，回答需严格基于该范围内信息进行概括。
+2026-03-29 21:04:46,869 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 21:04:46,869 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 晴天听什么
+2026-03-29 21:07:16,799 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 21:07:16,799 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 晴天听什么音乐
+2026-03-29 21:16:25,201 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 21:16:25,202 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 扫地机器人在我所在地区的气温下该如何保养
+2026-03-29 21:16:38,169 - agent - ERROR - vector_store.py:92 - [加载知识库]E:\agent\data\扫地机器人100问.pdf失败:`pypdf` package not found, please install it with `pip install pypdf`
+Traceback (most recent call last):
+  File "E:\anaconda3\Lib\site-packages\langchain_community\document_loaders\parsers\pdf.py", line 359, in lazy_parse
+    import pypdf
+ModuleNotFoundError: No module named 'pypdf'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "E:\agent\rag\vector_store.py", line 72, in load_document
+    documents : list[Document] = get_file_documents(path)
+                                 ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\agent\rag\vector_store.py", line 56, in get_file_documents
+    return pdf_loader(read_path)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "E:\agent\utils\file_handler.py", line 41, in pdf_loader
+    return PyPDFLoader(filepath, passwd).load()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\langchain_core\document_loaders\base.py", line 43, in load
+    return list(self.lazy_load())
+           ^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\anaconda3\Lib\site-packages\langchain_community\document_loaders\pdf.py", line 305, in lazy_load
+    yield from self.parser.lazy_parse(blob)
+  File "E:\anaconda3\Lib\site-packages\langchain_community\document_loaders\parsers\pdf.py", line 361, in lazy_parse
+    raise ImportError(
+ImportError: `pypdf` package not found, please install it with `pip install pypdf`
+2026-03-29 21:16:42,370 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\扫地机器人100问2.txt内容加载成功
+2026-03-29 21:16:47,286 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\扫拖一体机器人100问.txt内容加载成功
+2026-03-29 21:16:56,122 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\故障排除.txt内容加载成功
+2026-03-29 21:17:01,299 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\维护保养.txt内容加载成功
+2026-03-29 21:17:05,949 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\选购指南.txt内容加载成功
+2026-03-29 21:18:33,185 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\扫地机器人100问.pdf内容加载成功
+2026-03-29 21:18:37,441 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\扫地机器人100问2.txt内容加载成功
+2026-03-29 21:18:42,204 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\扫拖一体机器人100问.txt内容加载成功
+2026-03-29 21:18:50,758 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\故障排除.txt内容加载成功
+2026-03-29 21:18:55,730 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\维护保养.txt内容加载成功
+2026-03-29 21:18:59,985 - agent - INFO - vector_store.py:90 - [加载知识库]E:\agent\data\选购指南.txt内容加载成功
+2026-03-29 21:19:23,078 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 21:19:23,078 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 扫地机器人在我所在地区的气温下该如何保养
+2026-03-29 21:19:28,782 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_user_location
+2026-03-29 21:19:28,783 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:19:28,783 - agent - INFO - middleware.py:21 - [tool monitor]工具get_user_location调用成功
+2026-03-29 21:19:28,784 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 21:19:28,784 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 合肥
+2026-03-29 21:19:36,540 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_weather
+2026-03-29 21:19:36,540 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'city': '合肥'}
+2026-03-29 21:19:36,541 - agent - INFO - middleware.py:21 - [tool monitor]工具get_weather调用成功
+2026-03-29 21:19:36,541 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 5 条消息
+2026-03-29 21:19:36,541 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 城市合肥天气为晴天，气温26摄氏度，空气湿度50%，南风1级，AQI21，最近6小时降雨概率极低
+2026-03-29 21:19:39,959 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 21:19:39,959 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '扫地机器人在26摄氏度50%湿度环境下的保养方法'}
+2026-03-29 21:19:43,795 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 21:19:43,795 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 7 条消息
+2026-03-29 21:19:43,795 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 参考资料中未提及扫地机器人在26摄氏度50%湿度环境下的具体保养方法。
+2026-03-29 21:19:49,088 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 21:19:49,088 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '扫地机器人日常保养维护方法 温湿度影响'}
+2026-03-29 21:19:53,820 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 21:19:53,821 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 9 条消息
+2026-03-29 21:19:53,821 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 扫地机器人日常保养需定期清理尘盒、滤网和滚刷，检查边刷及传感器是否被缠绕或遮挡。温湿度会影响其性能：高湿度环境可能导致内部元件受潮或滋生霉菌，高温可能影响电池寿命，低温则可能降低电池效率。建议在干燥、常温环境中存放和使用。
+2026-03-29 21:22:15,846 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 21:22:15,846 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 给我生成我的使用报告
+2026-03-29 21:22:24,218 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_user_id
+2026-03-29 21:22:24,218 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:22:24,219 - agent - INFO - middleware.py:21 - [tool monitor]工具get_user_id调用成功
+2026-03-29 21:22:24,220 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 21:22:24,220 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 1001
+2026-03-29 21:22:30,110 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_current_month
+2026-03-29 21:22:30,111 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:22:30,111 - agent - INFO - middleware.py:21 - [tool monitor]工具get_current_month调用成功
+2026-03-29 21:22:30,112 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 5 条消息
+2026-03-29 21:22:30,112 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 2025-12
+2026-03-29 21:22:35,105 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：fill_context_for_report
+2026-03-29 21:22:35,105 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:22:35,106 - agent - INFO - middleware.py:21 - [tool monitor]工具fill_context_for_report调用成功
+2026-03-29 21:22:35,107 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 7 条消息
+2026-03-29 21:22:35,107 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | fill_context_for_report已调用
+2026-03-29 21:22:38,746 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：fetch_external_data
+2026-03-29 21:22:38,746 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'user_id': '1001', 'month': '2025-12'}
+2026-03-29 21:22:38,748 - agent - INFO - middleware.py:21 - [tool monitor]工具fetch_external_data调用成功
+2026-03-29 21:22:38,748 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 9 条消息
+2026-03-29 21:22:38,748 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | {"特征": "65㎡公寓 | 单身 | 木地板", "效率": "覆盖率:90%\\n日均清扫:50㎡\\n无漏扫区域", "耗材": "主刷寿命:剩余30天\\nHEPA滤网:剩余10%", "对比": "优于85%同面积用户（清洁效率满分）"}
+2026-03-29 21:22:46,093 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 21:22:46,093 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '扫地机器人耗材更换周期与保养建议'}
+2026-03-29 21:22:57,316 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 21:22:57,317 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 11 条消息
+2026-03-29 21:22:57,317 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 扫地机器人耗材更换周期与保养建议如下：  
+- 边刷建议每3个月更换一次，若出现明显磨损或清洁效果下降可提前更换；  
+- 主刷（滚刷）建议每6至12个月更换，具体视使用频率和地面状况而定；  
+- 滤网建议每月清洗一次，每6个月更换，若为可水洗滤网，需晾干后再装回；  
+- 尘盒每次使用后应清空，并定期用水冲洗晾干；  
+- 传感器和充电触点需定期用干布擦拭，防止灰尘影响性能；  
+- 长期不用时应将电池电量保持在50%左右，并存放在干燥环境中。
+2026-03-29 21:26:11,028 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 1 条消息
+2026-03-29 21:26:11,028 - agent - DEBUG - middleware.py:37 - [log_before_model]HumanMessage | 给我生成我的使用报告
+2026-03-29 21:26:15,329 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：fill_context_for_report
+2026-03-29 21:26:15,329 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:26:15,330 - agent - INFO - middleware.py:21 - [tool monitor]工具fill_context_for_report调用成功
+2026-03-29 21:26:15,331 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 3 条消息
+2026-03-29 21:26:15,331 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | fill_context_for_report已调用
+2026-03-29 21:26:19,560 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_user_id
+2026-03-29 21:26:19,560 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:26:19,560 - agent - INFO - middleware.py:21 - [tool monitor]工具get_user_id调用成功
+2026-03-29 21:26:19,562 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 5 条消息
+2026-03-29 21:26:19,562 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 1003
+2026-03-29 21:26:21,459 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：get_current_month
+2026-03-29 21:26:21,459 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{}
+2026-03-29 21:26:21,459 - agent - INFO - middleware.py:21 - [tool monitor]工具get_current_month调用成功
+2026-03-29 21:26:21,460 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 7 条消息
+2026-03-29 21:26:21,460 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 2025-03
+2026-03-29 21:26:25,234 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：fetch_external_data
+2026-03-29 21:26:25,234 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'user_id': '1003', 'month': '2025-03'}
+2026-03-29 21:26:25,234 - agent - INFO - middleware.py:21 - [tool monitor]工具fetch_external_data调用成功
+2026-03-29 21:26:25,235 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 9 条消息
+2026-03-29 21:26:25,235 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | {"特征": "90㎡ | 1狗 | 短毛地毯", "效率": "毛发清理:92%\\n地毯增压使用:16次/月", "耗材": "胶刷更换:已更换\\n尘盒容量:每日清理", "对比": "毛发处理效率前15%"}
+2026-03-29 21:26:28,332 - agent - INFO - middleware.py:16 - [tool monitor]执行工具：rag_summarize
+2026-03-29 21:26:28,332 - agent - INFO - middleware.py:17 - [tool monitor]传入参数：{'query': '宠物家庭扫地机器人保养建议'}
+2026-03-29 21:26:31,934 - agent - INFO - middleware.py:21 - [tool monitor]工具rag_summarize调用成功
+2026-03-29 21:26:31,935 - agent - INFO - middleware.py:36 - [log_before_model] 即将调用模型，带有 11 条消息
+2026-03-29 21:26:31,935 - agent - DEBUG - middleware.py:37 - [log_before_model]ToolMessage | 定期清理滚刷和边刷，防止宠物毛发缠绕；及时清空尘盒并清洗滤网，避免异味和堵塞；检查传感器是否被毛发遮挡，确保正常避障；建议每周至少维护一次，以维持扫地机器人在宠物家庭中的高效运行。

@@ -1,0 +1,2 @@
+2026-03-28 20:16:18,533 - agent - WARNING - agent_tools.py:76 - [fetch_external_data]未能检索到用户：1001在2025-1的使用记录数据
+2026-03-28 20:16:39,314 - agent - WARNING - agent_tools.py:76 - [fetch_external_data]未能检索到用户：1011在2025-01的使用记录数据
