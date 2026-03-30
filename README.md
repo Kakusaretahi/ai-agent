@@ -58,116 +58,137 @@ agent/
 ├── app.py                      #Streamlit入口
 └── requirements.txt
 ```
-核心模块说明
-1. Agent系统（agent/）
+-------------------------------------------------------------
+## 核心模块说明
+
+### 1. Agent系统（agent/）
 
 基于 LangChain + LangGraph 实现：
 
-工具调用（Tool Calling）
-中间件机制（Middleware）
-动态 Prompt 切换
-2. 工具系统（agent/tools/agent_tools.py）
+- 工具调用（Tool Calling）
+- 中间件机制（Middleware）
+- 动态 Prompt 切换
+
+---
+
+### 2. 工具系统（agent/tools/agent_tools.py）
 
 内置工具：
 
-RAG检索工具
-天气查询
-用户信息获取
-外部业务数据查询
-报告上下文注入
+- RAG检索工具
+- 天气查询
+- 用户信息获取
+- 外部业务数据查询
+- 报告上下文注入
 
 特点：
 
-标准化 Tool 封装
-易扩展
-3. 中间件机制（middleware.py）
+- 标准化 Tool 封装
+- 易扩展
+
+---
+
+### 3. 中间件机制（middleware.py）
 
 功能：
 
-工具调用监控
-日志记录
-动态上下文注入
-Prompt切换控制
-4. 模型工厂（model/factory.py）
+- 工具调用监控
+- 日志记录
+- 动态上下文注入
+- Prompt切换控制
+
+---
+
+### 4. 模型工厂（model/factory.py）
 
 实现：
 
-聊天模型（ChatTongyi）
-Embedding模型（DashScopeEmbeddings）
+- 聊天模型（ChatTongyi）
+- Embedding模型（DashScopeEmbeddings）
 
 特点：
 
-工厂模式
-配置驱动切换
-5. RAG模块（rag/）
+- 工厂模式
+- 配置驱动切换
+
+---
+
+### 5. RAG模块（rag/）
 
 实现：
 
-文档加载（PDF / TXT）
-文本切分
-向量存储（Chroma）
-语义检索
-6. Prompt管理（prompt_loader.py）
+- 文档加载（PDF / TXT）
+- 文本切分
+- 向量存储（Chroma）
+- 语义检索
+
+---
+
+### 6. Prompt管理（prompt_loader.py）
 
 支持：
 
-系统 Prompt
-RAG Prompt
-报告 Prompt
+- 系统 Prompt
+- RAG Prompt
+- 报告 Prompt
 
 特点：
 
-配置解耦
-动态加载
-7. 文件处理（file_handler.py）
+- 配置解耦
+- 动态加载
+
+---
+
+### 7. 文件处理（file_handler.py）
 
 功能：
 
-MD5 去重
-多层目录扫描
-文档加载
-8. 日志系统（logger_handler.py）
+- MD5 去重
+- 多层目录扫描
+- 文档加载
+
+---
+
+### 8. 日志系统（logger_handler.py）
 
 支持：
 
-控制台日志
-文件日志
-自动日志文件生成
-9. Streamlit UI（app.py）
+- 控制台日志
+- 文件日志
+- 自动日志文件生成
+
+---
+
+### 9. Streamlit UI（app.py）
 
 功能：
 
-聊天界面
-流式输出
-会话管理（session_state）
-环境依赖
+- 聊天界面
+- 流式输出
+- 会话管理（session_state）
+
+---
+
+## 环境依赖
 
 建议 Python 3.10+
 
 安装依赖：
 
+```bash
 pip install -r requirements.txt
-
-核心依赖：
-
-langchain
-langchain-community
-langchain-text-splitters
-langchain-chroma
-chromadb
-streamlit
-PyYAML
+```
 使用方法
-启动系统
+-启动系统
+```
 streamlit run app.py
+```
 示例功能
-
-用户输入：
-
+-用户输入：
+```
 帮我生成一份用户使用报告
-
+```
 系统流程：
-
 调用工具获取用户ID
 获取月份
 查询外部数据
